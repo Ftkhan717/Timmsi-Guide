@@ -44,7 +44,13 @@ https://www.facebook.com/groups/thedesignhive
 
   - If someone need assistance in learning material communicate in group Chat.
   - If someone facing problems of any software or hardware issue discuss in Tech group.
-  - If someone want to share their daily routine or want to talk about general things         communicate in group. Similarly discuss your tasks in your team channel.
+  - If someone want to share their daily routine or want to talk about general things        
+  - communicate in group. Similarly discuss your tasks in your team channel.
+  - Don't save your notes in private OneNote.
+  - You need to create Binance account.
+  - You don't need to call private.
+  - If you are working on something or your supervisor or boss gives you a task, you must switch to that project and abandon the one you were working on.
+  - 
 - Use desktop apps
 - Learn about SharePoint and create/save files in it. Don't save them privately.
 
