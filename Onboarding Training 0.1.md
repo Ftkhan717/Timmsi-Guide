@@ -48,7 +48,8 @@ https://www.facebook.com/groups/thedesignhive
   - You need to create Binance account.
   - You don't need to call private.
   - If you are working on something or your supervisor or boss gives you a task, you must switch to that project and abandon the one you were working on.
-  - 
+
+
 - Use desktop apps
 - Learn about SharePoint and create/save files in it. Don't save them privately.
 
