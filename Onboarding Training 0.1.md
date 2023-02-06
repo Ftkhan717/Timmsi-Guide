@@ -40,9 +40,7 @@ https://www.facebook.com/groups/thedesignhive
 
 - When your boss is texting you leave everything and reply to them if you are clocked in.   (Name the people whom no one can ignore)
 - Always talk in English and if someone caught talking in other languages they will be     consequences.
-- Communicate in appropriate channel and don't private message to anyone. In our company   there is nothing private. For example:
-
-  - If someone need assistance in learning material communicate in group Chat.
+- Communicate in appropriate channel and don't text private to anyone. In our company   there is nothing private. For example: If someone need assistance in learning material communicate in group Chat.
   - If someone facing problems of any software or hardware issue discuss in Tech group.
   - If someone want to share their daily routine or want to talk about general things        
   - communicate in group. Similarly discuss your tasks in your team channel.
