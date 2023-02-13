@@ -62,3 +62,7 @@ https://www.facebook.com/groups/thedesignhive
   - Teach them about pull requests.
   - Explain the use of branches in GitHub and how to create and merge them.
   - Teach them how to ctreate issue.
+
+[How to create binance](https://github.com/TaoLearning/Timmsi-Guide/blob/gh-pages/Binance%20Intro.md)
+
+
