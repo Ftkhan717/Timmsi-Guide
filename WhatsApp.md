@@ -2,6 +2,6 @@
 
 - Frist open Application for Careere.
 
-- Save candidate number in personal WhatsApp Account.  
+- Save candidate number who haven't interviewed in personal WhatsApp Account.  
 
-- Share the contact number on Business WhatsApp Account.  
+- Share the candidate contact phone number on company Business WhatsApp Account.  
