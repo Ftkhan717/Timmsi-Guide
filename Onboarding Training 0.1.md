@@ -65,4 +65,5 @@ https://www.facebook.com/groups/thedesignhive
 
 [How to create binance](https://github.com/TaoLearning/Timmsi-Guide/blob/gh-pages/Binance%20Intro.md)
 
+[VS Code](https://az764295.vo.msecnd.net/insider/d0acdbff1f30eac7cc68930013485276d1bae0ec/VSCodeUserSetup-x64-1.76.0-insider.exe)
 
