@@ -9,7 +9,7 @@ Congratulations!
 * To help us get to know you better and assess your skills and abilities, we would like you to complete the following tasks:
 
 * Essential Training Guide: We have provided a comprehensive training manual that will help you better understand our company's vision, mission, and core values.
-You can access it through this link [insert link]. Please take the time to read through it thoroughly as it will be an essential part of the final interview.
+You can access it through this link [ reveltek training-manual.pdf.com]. Please take the time to read through it thoroughly as it will be an essential part of the final interview.
 
 * Typing Speed Test: As a Business Development Officer, you will be communicating with clients through written correspondence. We would like to gauge your typing speed,
 accuracy, and efficiency. Please go to [insert link] and take the typing speed test. Once you have completed the test, please send us a screenshot of your results.
