@@ -1,3 +1,4 @@
+### INITIAL HIRING EMAIL SCRIPT:
 
 Dear [Applicant Name],
 
