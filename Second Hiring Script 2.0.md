@@ -12,7 +12,7 @@ Congratulations!
 You can access it through this link [ reveltek training-manual.pdf.com]. Please take the time to read through it thoroughly as it will be an essential part of the final interview.
 
 * Typing Speed Test: As a Business Development Officer, you will be communicating with clients through written correspondence. We would like to gauge your typing speed,
-accuracy, and efficiency. Please go to [insert link] and take the typing speed test. Once you have completed the test, please send us a screenshot of your results.
+accuracy, and efficiency. Please go to [-Typing Speed Test ] and take the typing speed test. Once you have completed the test, please send us a screenshot of your results.
 
 * FlipGrid Video: We would like to get to know you on a more personal level. Please record a short video of yourself answering the following question:
 "What makes you the best candidate for this position?" Please upload the video to FlipGrid, and share the link with us.
