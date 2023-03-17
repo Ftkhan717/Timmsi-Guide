@@ -1,4 +1,4 @@
-# Hello (Applicant name),
+# Hello (ABC),
 
 You have progressed to the next round, in which we shortlist candidates for the Final Interview. In the email, we've included some reading material as well as a link to a speed test.  Could you please complete the attached test package and the reading material?
 
