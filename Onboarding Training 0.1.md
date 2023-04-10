@@ -9,6 +9,10 @@ Scripts for New Hired Employees
 
   - 5 Ws
   - 5 why<br>
+  - Universal Business Framework
+  - STAR.md
+  - ORBITAL.md
+  - DROID Ops
 [Essential Training Guide](https://reveltek.com/files/training-manual.pdf)
 - Also Put SMART STAR in group Chat (only for new hires) and train them how to do.
 
