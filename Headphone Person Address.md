@@ -1,6 +1,6 @@
-Name: Hafiz
-Contact: 03315781474
-Address: RawalPindi, Dubai plaza. 
+Name: Hafiz<br>
+Contact: 03315781474<br>
+Address: RawalPindi, Dubai plaza.<br> 
 
 ![339991636_775727790820117_4177815135794190254_n](https://user-images.githubusercontent.com/117277515/230637561-db7b49ea-58e9-4c82-ad0e-5871e1a4d1ce.jpg)
 ![340099147_236368132227429_5580563871284885318_n](https://user-images.githubusercontent.com/117277515/230637667-65f8c8a0-a340-46ac-923f-5adb804c9ce3.jpg)
