@@ -10,6 +10,6 @@
    - hit "enter" to send the message
 - Continue @mention AI, ____________
    - do this for all future questions
-   - The question asked should be as small as possible
+   - The question asked should be as small as possible.
    - Do not use words like "write, give me, please, provide me" in the question.
    - Short and crisp questions with maximum of 4-5 words.
