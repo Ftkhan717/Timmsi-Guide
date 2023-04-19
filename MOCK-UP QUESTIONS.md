@@ -3,7 +3,7 @@
 Following are the questions that are legal to be asked from the US internees:
 
 1. Are you authorized to work in the United States?
-2. Will you require visa sponsorship to work for our company?
+2. Do you now require visa sponsorship to work for our company or in the future?
 3. Have you ever had a visa application denied or revoked?
 4. Are there any restrictions on your current visa that would prevent you from working for our company?
 
