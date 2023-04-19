@@ -26,10 +26,8 @@ Following are the questions that are legal to be asked from the US internees:
 * when it comes to the I-9 form, there are several questions you can ask an interviewee to ensure that they are eligible to work in the United States 🇺🇸.
 
  1. Do you currently have the legal right to work in the United States?
- 2️. Are you authorized to work in the United States?
- 3️. Are you a U.S. citizen, a permanent resident, or do you have a valid work visa?
- 4️. Have you ever been denied a visa or been deported from the United States?
- 5️. Have you ever been convicted of a crime?
+ 2. Have you ever been denied a visa or been deported from the United States?
+ 3. Have you ever been convicted of a crime?
 
 NOTE: It's important to note that you cannot ask an interviewee specific questions about their immigration status, as this could be considered discriminatory.
 Instead, you should ask broad questions about their eligibility to work in the United States.
